@@ -18,4 +18,4 @@ Hi 👋, I'm krrish singh <br><br>A Student Pursuing Bachelor of Technology in C
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-snake.svg
+![](https://github.com/KRRISHSINGH08/KRRISHSINGH08/blob/main/snake.svg)
