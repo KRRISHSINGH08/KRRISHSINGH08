@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm krrish singh <br><br>A Student Pursuing Bachelor of Technology in Computer Science.<br><br>🌱 I'm Currently learning DSA & Web development<br><br>💬Ask me about anything, would love to answer them.✌<br><br>📫 How to reach me - singhkrrish85@gmail.com<br><br>while(noSuccess){<br><br>   tryAgain();<br><br>   if(Sucess)<br>        Improve();<br>}
-.![](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif) <br>
+Hi 👋, I'm krrish singh <br><br>A Student Pursuing Bachelor of Technology in Computer Science. <img align ="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"><br><br>🌱 I'm Currently learning DSA & Web development<br><br>💬Ask me about anything, would love to answer them.✌<br><br>📫 How to reach me - singhkrrish85@gmail.com<br><br>while(noSuccess){<br><br>   tryAgain();<br><br>   if(Sucess)<br>        Improve();<br>}
 
 
 ## 🌐 Socials:
