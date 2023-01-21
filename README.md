@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm krrish singh 😉<br><br>A Student Pursuing Bachelor of Technology in Computer Science.<br><br>🌱 I'm Currently learning DSA<br><br>💬Ask me about anything related to C and C++ programming.<br><br>📫 How to reach me singhkrrish85@gmail.com<br><br>while(noSuccess){<br><br>   tryAgain();<br><br>   if(Sucess)<br>        Improve();<br>}
+Hi 👋, I'm krrish singh <br><br>A Student Pursuing Bachelor of Technology in Computer Science.<br><br>🌱 I'm Currently learning DSA & Web development<br><br>💬Ask me about anything, would love to answer them.✌<br><br>📫 How to reach me - singhkrrish85@gmail.com<br><br>while(noSuccess){<br><br>   tryAgain();<br><br>   if(Sucess)<br>        Improve();<br>}
 
 
 ## 🌐 Socials:
