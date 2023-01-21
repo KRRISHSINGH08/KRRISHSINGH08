@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm krrish singh <br><br>A Student Pursuing Bachelor of Technology in Computer Science.![](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
+Hi 👋, I'm krrish singh <br><br>A Student Pursuing Bachelor of Technology in Computer Science. &nbsp;![](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
 <br><br>🌱 I'm Currently learning DSA & Web development<br><br>💬Ask me about anything, would love to answer them.✌<br><br>📫 How to reach me - singhkrrish85@gmail.com<br><br>while(noSuccess){<br><br>   tryAgain();<br><br>   if(Sucess)<br>        Improve();<br>}
 
 
